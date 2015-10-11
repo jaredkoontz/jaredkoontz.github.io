@@ -1,19 +1,4 @@
-# Eclipse files
-*.project
-*.classpath
-*.build
-*.settings
+# ide files
 .idea/*
 *.iml
 out/
-
-# Local dev files
-classes
-depcache
-build.properties
-
-# Mac OS File Attributes
-.DS_Store
-
-# Binaries
-lib/Galileo-*.jar
