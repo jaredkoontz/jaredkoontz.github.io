@@ -1,1 +1,0 @@
-# jaredkoontz.github.io
