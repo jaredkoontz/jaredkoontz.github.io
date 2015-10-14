@@ -23,31 +23,9 @@ body {
 header {
     width: 100%;
     margin: 3em 0 3.25em 0;
-
     background-color: #e5e5e5;
     border-top: 1px solid #9b9b9b;
     border-bottom: 1px solid #9b9b9b;
-}
-
-header h1 {
-    width: 3em;
-    height: 2.75em;
-    float: left;
-    margin-top: -0.75em;
-
-    background-image: url(jk.svg), url(m.gif);
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-
-header h1 a {
-    width: 100%;
-    height: 100%;
-
-    text-indent: 100%;
-    white-space: nowrap;
-    overflow: hidden;
-    display: block;
 }
 
 nav {
@@ -72,6 +50,48 @@ nav a:hover {
 }
 
 nav a:visited {
+    color: #323232;
+}
+
+
+menu, ol, ul {
+    padding: 0 0 0 40px;
+}
+
+header h1 {
+    width: 3em;
+    height: 2.75em;
+    float: left;
+    margin-top: -0.75em;
+
+    background-image: url(jk.svg), url(m.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+header h1 a {
+    width: 100%;
+    height: 100%;
+
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+}
+
+.nav a:link,
+.nav a:active {
+    color: #323232;
+    text-decoration: none;
+    margin: 0 0.5em 0 0.5em;
+    line-height: 2.25em;
+}
+
+.nav a:hover {
+    text-decoration: none;
+}
+
+.nav a:visited {
     color: #323232;
 }
 
