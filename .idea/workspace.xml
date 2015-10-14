@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e98e8d2e-0e5d-48cb-a3ff-5ca40445cda8" name="Default" comment="" />
+    <list default="true" id="e98e8d2e-0e5d-48cb-a3ff-5ca40445cda8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/jk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/play.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/fonts/glyphicons-halflings-regular.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/img/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/img/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/img/github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/img/linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/img/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/img/stackoverflow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/img/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/kreuzman.com/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/me" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/me.tgz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_includes/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_includes/navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_includes/social-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_layouts/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_layouts/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_layouts/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_layouts/photos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_layouts/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_posts/2015-02-15-first-post.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_posts/sample.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_sass/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_sass/_blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_sass/_home.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_sass/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_sass/_photos.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_sass/_social-list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/_sass/_syntax-highlighting.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/about.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/blog/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/css/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/canon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/guate-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/guate-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/guate-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/headshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/laos-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/laos-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/laos-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/laos-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/laos-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/laos-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/img/palm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inspiration/smithln.github.io-master/photos/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="website.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,17 +94,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/mobile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.029315962">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24531516">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,6 +145,12 @@
       <list>
         <option value="$PROJECT_DIR$/inspiration/smithln.github.io-master/css/main.scss" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/assest/style.css" />
+        <option value="$PROJECT_DIR$/assets/main.css" />
+        <option value="$PROJECT_DIR$/play.html" />
+        <option value="$PROJECT_DIR$/inspiration/matthew.malensek.net/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/style.css" />
       </list>
     </option>
   </component>
@@ -60,7 +166,6 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
     <option name="y" value="24" />
     <option name="width" value="1920" />
     <option name="height" value="1056" />
@@ -72,7 +177,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -118,7 +223,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="inspiration" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -131,12 +236,18 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/inspiration" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/inspiration" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -189,29 +300,38 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="24" width="1920" height="1056" extended-state="6" />
+    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -244,8 +364,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.029315962">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/jk.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24531516">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
           <folding />
         </state>
       </provider>
