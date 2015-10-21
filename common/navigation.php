@@ -1,5 +1,10 @@
+<?php
+$pageDepth = 1;
+include('./rel-path.php');
+?>
 <ul>
-    <li><a href="./about">About</a></li>
-    <li><a href="./projects">Projects</a></li>
-    <li><a href="./contact">Contact</a></li>
+    <li><a href="<? echo '$relativePath'; ?>index.php">About</a></li>
+    <li><a href="<? echo '$relativePath'; ?>cv">CV</a></li>
+    <li><a href="<? echo '$relativePath'; ?>projects">Projects</a></li>
+    <li><a href="<? echo '$relativePath' ?>contact">Contact</a></li>
 </ul>

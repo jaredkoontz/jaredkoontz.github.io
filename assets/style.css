@@ -190,7 +190,7 @@ p, li {
 
 a {
     text-decoration: none;
-    color: mediumaquamarine;
+    color: crimson;
 }
 
 /* Medium screens (640px) */
@@ -281,7 +281,7 @@ button:focus {
 
 .name, .mobile-name {
     float: left;
-    padding: 6px 0px 8px 30px;
+    padding: 6px 0 8px 30px;
 }
 
 /* Large screens (1024px) */
@@ -292,7 +292,6 @@ button:focus {
         float: left;
         width: 33%;
         padding-top: 6px;
-        border: 3px solid #000007;
     }
 
     .name a img {
@@ -307,7 +306,7 @@ button:focus {
     }
 
     .name li a:hover {
-        color: mediumaquamarine;
+        color: crimson;
     }
 
     .name li a {
@@ -320,19 +319,28 @@ button:focus {
     .logo-wrapper {
         display: inline-block;
         width: 33%;
-        border: 3px solid #8AC007;
         color: #2A2A2A;
         border-radius: 0.2em;
         text-align: center;
+        padding: 0;
+        margin: 0;
     }
 
     .logo {
         overflow: hidden;
-        border: thin solid #DADADA;
+    }
+
+    .logo svg {
+        height: 80px;
+        width: 80px;
     }
 
     .jk-logo {
         fill: #C9C4C6;
+    }
+
+    .jk-logo:hover {
+        fill: crimson;
     }
 
     /*navigation*/
@@ -341,7 +349,7 @@ button:focus {
         float: right;
         width: 33%;
         padding-top: 6px;
-        border: 3px solid #00D7FF;
+        /*border: 3px solid #00D7FF;*/
     }
 
     .sticky-nav li {
@@ -357,7 +365,7 @@ button:focus {
     }
 
     .sticky-nav li a:hover {
-        color: mediumaquamarine;
+        color: crimson;
     }
 
     #showRightPush {
@@ -384,7 +392,7 @@ button:focus {
     }
 
     .contact-nav {
-        border: 2px solid mediumaquamarine;
+        border: 2px solid crimson;
         padding: 7px 16px 8px 16px !important;
         margin-left: 19px;
         border-radius: 6px;
@@ -434,7 +442,7 @@ button:focus {
 }
 
 .social a:hover {
-    color: mediumaquamarine;
+    color: crimson;
 }
 
 /* Medium screens (640px) */
@@ -550,7 +558,7 @@ button:focus {
     min-width: 100%;
     position: absolute;
     z-index: -1000;
-    background-color: mediumaquamarine;
+    background-color: crimson;
 }
 
 .work-samples {
@@ -613,7 +621,7 @@ button:focus {
 }
 
 .baseline {
-    background-color: mediumaquamarine;
+    background-color: crimson;
     padding: 7px 0px;
     bottom: 0px;
     position: fixed;
