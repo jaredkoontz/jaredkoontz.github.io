@@ -1,14 +1,14 @@
-<? include "common/rel-path.php" ?>
+<? include "../common/rel-path.php" ?>
 <?php
-$pageDepth = 0;
+$pageDepth = 1;
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php include "common/head.php" ?>
+    <?php include $relativePath.'common/head.php'; ?>
 </head>
 <body>
-<?php include "common/navigation-row.php" ?>
+<?php include $relativePath.'common/navigation-row.php' ?>
 
 <div class="row clearfix">
     <div class="column full landing">
@@ -27,7 +27,7 @@ $pageDepth = 0;
 </div>
 <!--row-->
 
-<?php include "common/footer.php" ?>
+<?php include $relativePath.'common/footer.php' ?>
 
 </body>
 </html>
